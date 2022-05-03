@@ -9,6 +9,9 @@
        • You can also give “allowance” to other, specific user-addresses.<br>
        • Restrict the functions to specific user-roles (owner, user)<br>
        • Re-Use existing smart contracts which are already audited to the greatest extent.<br>
+<div style="display:inline_block" align="center">
+<img src="https://user-images.githubusercontent.com/104650624/166427180-8032427c-cb22-480e-bc1d-5bc9cd9a4ae2.png"></div>
+
 
 - <h2>To Use this project :-</h2>
   <div>1) Go to Remix and Copy both the .sol files in the same folder<br>
